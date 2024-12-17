@@ -185,6 +185,4 @@ int main(){
         savefile();
         lockfile();
         return 0;
-        ofstream f("fichier.txt");
-        string mot = "";
 }
